@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="5" failures="0" time="3.066">
+  <testsuite name="Input tests" errors="0" failures="0" skipped="0" timestamp="2021-06-01T19:23:54" time="2.369" tests="5">
+    <testcase classname="Input tests" name="Dodano poprawnie komponent inputa" time="0.007">
+    </testcase>
+    <testcase classname="Input tests" name="Poprawnie ustawia typ na text" time="0.001">
+    </testcase>
+    <testcase classname="Input tests" name="Poprawnie ustawia typ na number" time="0">
+    </testcase>
+    <testcase classname="Input tests" name="Poprawnie ustawia typ na email" time="0.001">
+    </testcase>
+    <testcase classname="Input tests" name="Poprawnie ustawia domyślny typ na range" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
